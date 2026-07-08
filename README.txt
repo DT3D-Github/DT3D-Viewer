@@ -129,9 +129,15 @@ If you find a bug or have a feature request, please open an Issue on GitHub.
 
 # 📄 License
 
-This software is distributed as **Freeware**.
+# 📄 License
 
-Copyright © 2026 DT3D. All Rights Reserved.
+DT3D Viewer is distributed as **Freeware**.
+
+You may use the software free of charge.
+
+The software, its source code, branding, logo, and all related intellectual property remain the exclusive property of **DT3D**.
+
+See the [LICENSE](LICENSE) file for complete license terms.
 
 ---
 
