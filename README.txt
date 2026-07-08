@@ -1,13 +1,5 @@
 # DT3D Viewer
 
-<p align="center">
-  <img src="resources/logo.png" width="96" alt="DT3D Viewer Logo">
-</p>
-
-<p align="center">
-<b>Fast • Lightweight • Modern Image Viewer for Windows</b>
-</p>
-
 DT3D Viewer is a fast, lightweight, and modern image viewer developed by **DT3D**. It is designed to provide a clean user experience with smooth navigation, fast image loading, and an intuitive interface.
 
 ---
