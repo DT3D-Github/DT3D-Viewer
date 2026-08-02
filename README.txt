@@ -4,49 +4,49 @@ DT3D Viewer is a fast, lightweight, and modern image viewer developed by **DT3D*
 
 ---
 
-# ✨ Features
+ Features
 
-- 🖼️ Open PNG, JPG, JPEG, BMP, GIF and WEBP images
-- 📂 Drag & Drop support
-- 🔍 Zoom In / Zoom Out
-- 🎯 Actual Size
-- 🖥️ Fit to Window
-- ⛶ Full Screen Mode
-- ⬅️ Previous / Next image navigation
-- 📊 Status Bar with image information
-- 🎨 Custom DT3D toolbar icons
-- ℹ️ About dialog
+-  Open PNG, JPG, JPEG, BMP, GIF and WEBP images
+-  Drag & Drop support
+-  Zoom In / Zoom Out
+-  Actual Size
+-  Fit to Window
+-  Full Screen Mode
+-  Previous / Next image navigation
+-  Status Bar with image information
+-  Custom DT3D toolbar icons
+-  About dialog
 
----
 
-# 💻 System Requirements
 
-## Operating System
+System Requirements
+
+Operating System
 
 - Windows 10 (64-bit)
 - Windows 11 (64-bit)
 
-## Minimum Requirements
+ Minimum Requirements
 
-| Component | Requirement |
-|----------|-------------|
-| CPU | Dual-Core Processor |
-| RAM | 2 GB |
-| Storage | 100 MB Free Space |
-| Display | 1280×720 |
+ Component | Requirement 
 
-## Recommended
+CPU | Dual-Core Processor 
+RAM | 2 GB
+Storage | 100 MB Free Space 
+Display | 1280×720
 
-| Component | Requirement |
-|----------|-------------|
-| CPU | Intel Core i3 / AMD Ryzen 3 or better |
-| RAM | 4 GB or more |
-| Storage | SSD Recommended |
-| Display | Full HD (1920×1080) |
+Recommended
+
+Component | Requirement 
+
+CPU | Intel Core i3 / AMD Ryzen 3 or better 
+RAM | 4 GB or more |
+Storage | SSD Recommended 
+Display | Full HD (1920×1080) 
 
 ---
 
-# 📦 Installation
+Installation
 
 1. Download the latest release.
 2. Run **DT3D Viewer Setup.exe**
@@ -55,7 +55,7 @@ DT3D Viewer is a fast, lightweight, and modern image viewer developed by **DT3D*
 
 ---
 
-# 🚀 Quick Start
+Quick Start
 
 1. Click **Open**
 2. Select an image
@@ -63,20 +63,20 @@ DT3D Viewer is a fast, lightweight, and modern image viewer developed by **DT3D*
 
 ---
 
-# ⌨️ Keyboard Shortcuts
+Keyboard Shortcuts
 
-| Shortcut | Action |
-|----------|--------|
-| Ctrl + O | Open Image |
-| Ctrl + + | Zoom In |
-| Ctrl + - | Zoom Out |
-| Ctrl + 0 | Fit to Window |
-| Ctrl + 1 | Actual Size |
-| F11 | Full Screen |
+Shortcut | Action 
+
+Ctrl + O | Open Image 
+Ctrl + + | Zoom In 
+Ctrl + - | Zoom Out
+Ctrl + 0 | Fit to Window 
+Ctrl + 1 | Actual Size
+F11 | Full Screen 
 
 ---
 
-# 🖼️ Supported Formats
+Supported Formats
 
 - PNG
 - JPG
@@ -87,7 +87,7 @@ DT3D Viewer is a fast, lightweight, and modern image viewer developed by **DT3D*
 
 ---
 
-# 📷 Screenshots
+Screenshots
 
 Main Window
 
@@ -95,31 +95,6 @@ Main Window
 
 ---
 
-# 🛣️ Roadmap
-
-## Version 1.1
-
-- Thumbnail Browser
-- Rotate Images
-- Flip Images
-- Delete Image
-- Better Zoom Engine
-
-## Version 1.2
-
-- Dark Theme
-- EXIF Viewer
-- Slideshow
-- Favorites
-
-## Future
-
-- RAW Image Support
-- Batch Conversion
-- Batch Rename
-- Plugin System
-
----
 
 # 🐞 Report a Bug
 
@@ -127,9 +102,8 @@ If you find a bug or have a feature request, please open an Issue on GitHub.
 
 ---
 
-# 📄 License
 
-# 📄 License
+ License
 
 DT3D Viewer is distributed as **Freeware**.
 
@@ -141,7 +115,7 @@ See the [LICENSE](LICENSE) file for complete license terms.
 
 ---
 
-# 👨‍💻 Developed by
+Developed by
 
 **DT3D**
 
@@ -151,4 +125,4 @@ Creating innovative software, games and digital experiences.
 
 ---
 
-⭐ If you like this project, consider starring the repository on GitHub.
+If you like this project, consider starring the repository on GitHub.
