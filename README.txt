@@ -96,7 +96,7 @@ Main Window
 ---
 
 
-# 🐞 Report a Bug
+Report a Bug
 
 If you find a bug or have a feature request, please open an Issue on GitHub.
 
